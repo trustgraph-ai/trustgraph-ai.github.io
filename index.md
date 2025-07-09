@@ -4,8 +4,8 @@ metadata:
   information: An importan tpiece of information
 ---
 
-# {{ title }}
+# {{ page.title }}
 
 This is a test
 
-Note: {{ metadata.information }}
+Note: {{ page.metadata.information }}
