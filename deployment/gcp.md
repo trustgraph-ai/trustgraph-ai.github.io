@@ -12,44 +12,64 @@ Deploy TrustGraph on Google Cloud Platform using Google Kubernetes Engine (GKE) 
 
 ## Overview
 
-GCP provides a robust, scalable platform for deploying TrustGraph in production environments with enterprise-grade features.
+TrustGraph provides a complete GCP deployment solution using **Pulumi** (Infrastructure as Code) that automatically provisions and configures all necessary GCP resources for a production-ready TrustGraph deployment.
 
-## Prerequisites
+## What You Get
 
-Coming soon - detailed content!
+The GCP deployment includes:
 
-## GKE Cluster Setup
+- **GKE Kubernetes cluster** with 2-node pool
+- **Service accounts** with VertexAI access
+- **Complete TrustGraph stack** deployed and configured
+- **VertexAI Gemini Flash 1.5** LLM integration
+- **Secrets management** for secure configuration
+- **Monitoring and observability** with Grafana
+- **Web workbench** for document processing and Graph RAG
 
-Coming soon - detailed content!
+## Deployment Method
 
-## Container Registry
+The deployment uses **Pulumi**, an Infrastructure as Code tool that:
 
-Coming soon - detailed content!
+- Has an open-source license
+- Uses general-purpose programming languages (TypeScript/JavaScript)
+- Provides testable infrastructure code
+- Offers retryable deployments
+- Supports local or cloud state management
 
-## Deployment Configuration
+## Quick Process Overview
 
-Coming soon - detailed content!
+1. **Install Pulumi** and dependencies
+2. **Configure GCP credentials** using `gcloud auth login`
+3. **Customize configuration** in `Pulumi.STACKNAME.yaml`
+4. **Deploy** with `pulumi up`
+5. **Access services** via port-forwarding or load balancers
 
-## Persistent Storage
+## Access Points
 
-Coming soon - detailed content!
+Once deployed, you'll have access to:
 
-## Networking & Security
+- **TrustGraph API**: Port 8088
+- **Web Workbench**: Port 8888 (document processing, Graph RAG)
+- **Grafana Monitoring**: Port 3000
 
-Coming soon - detailed content!
+## Complete Documentation
 
-## Monitoring & Logging
+For detailed step-by-step instructions, configuration options, and troubleshooting, visit:
 
-Coming soon - detailed content!
+**[TrustGraph GCP Deployment Guide](https://github.com/trustgraph-ai/pulumi-trustgraph-gke)**
 
-## Scaling
+The repository contains:
+- Complete Pulumi deployment code
+- Configuration templates
+- Detailed setup instructions
+- Troubleshooting guides
+- Customization options
 
-Coming soon - detailed content!
+## Next Steps
 
-## Cost Optimization
-
-Coming soon - detailed content!
-
-## Troubleshooting
-
-Coming soon - detailed content!
+After deployment, you can:
+- Load documents through the web workbench
+- Test Graph RAG queries
+- Monitor processing through Grafana
+- Scale the cluster as needed
+- Integrate with existing GCP services
