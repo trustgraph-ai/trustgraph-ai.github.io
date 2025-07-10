@@ -8,40 +8,42 @@ grand_parent: TrustGraph Documentation
 
 # Features
 
-Explore TrustGraph's comprehensive feature set designed for trust and reputation systems.
+Explore TrustGraph's comprehensive feature set designed for building intelligent AI agents.
 
 ## Core Features
 
-### Graph Database
-Coming soon - graph database capabilities
+### Knowledge Graph Construction
+Transform enterprise data into interconnected knowledge structures that preserve relationships and context. TrustGraph automatically identifies entities, relationships, and hierarchies within your data.
 
-### Trust Analytics
-Coming soon - trust analytics features
+### GraphRAG Technology
+Advanced Graph Retrieval-Augmented Generation that goes beyond traditional RAG approaches. Instead of retrieving isolated documents, GraphRAG understands the relationships between data points for more contextual responses.
 
-### Reputation Systems
-Coming soon - reputation system features
+### AI Agent Intelligence
+Build sophisticated AI agents that can reason about complex relationships in your data. Agents understand not just what information exists, but how different pieces of information connect and relate to each other.
 
-### Query Engine
-Coming soon - query engine capabilities
+### Knowledge Packages
+Combine Knowledge Graphs with Vector Embeddings to create comprehensive "Knowledge Packages" that provide both structured relationships and semantic similarity search capabilities.
 
-### Data Integration
-Coming soon - data integration features
+### Multi-Technology Integration
+Flexible architecture that supports integration with:
+- Multiple Large Language Models (LLMs)
+- Various vector databases
+- Different graph database systems
+- Enterprise data sources
 
-### Visualization
-Coming soon - visualization capabilities
-
-### Security & Privacy
-Coming soon - security and privacy features
+### Open Source Transparency
+Complete visibility into how your data is processed, transformed, and used by AI agents. No black boxes or vendor lock-in.
 
 ## Advanced Features
 
-### Machine Learning
-Coming soon - ML integration features
+### Contextual Reasoning
+Agents can perform sophisticated reasoning about relationships between data points, reducing hallucinations and improving accuracy.
 
-### API & SDKs
-Coming soon - API and SDK information
+### Enterprise Data Unification
+Break down data silos by connecting fragmented information across your organization into coherent knowledge systems.
 
-### Monitoring & Observability
-Coming soon - monitoring features
+### Scalable Architecture
+Designed to handle enterprise-scale data processing and knowledge graph construction with high performance and reliability.
 
-Coming soon - detailed feature documentation!
+### Developer-Friendly APIs
+Comprehensive APIs and SDKs for integrating TrustGraph into your applications and workflows.
