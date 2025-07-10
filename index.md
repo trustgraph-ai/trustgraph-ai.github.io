@@ -1,29 +1,50 @@
 ---
-title: "This is a title"
-metadata:
-  information: An importan tpiece of information
+title: TrustGraph Documentation
 layout: default
-nav_order: 2
+nav_order: 1
+has_children: true
 ---
 
-# {{ page.title }}
+# TrustGraph Documentation
 
-This is a test
+Welcome to the TrustGraph documentation! TrustGraph is a powerful graph database and analytics platform designed for trust and reputation systems.
 
-Note: {{ page.metadata.information }}
+## Quick Navigation
 
+### [Getting Started](getting-started/)
+New to TrustGraph? Start here for installation and basic concepts.
 
-```mermaid
-graph TD;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+### [Overview](overview/)
+Learn about TrustGraph's features, architecture, and use cases.
 
-{: .warning }
-A paragraph...
+### [Deployment](deployment/)
+Deploy TrustGraph on various platforms and environments.
 
+### [API Documentation](api/)
+Complete API reference with examples and best practices.
 
+### [CLI Tools](cli/)
+Command-line interface for managing TrustGraph.
+
+### [How-to Guides](guides/)
+Step-by-step guides for common tasks and integrations.
+
+### [Reference](reference/)
+Technical reference materials and specifications.
+
+### [Community](community/)
+Contributing guidelines, support, and project roadmap.
+
+### [Examples](examples/)
+Real-world examples and sample implementations.
+
+### [Advanced Topics](advanced/)
+Advanced configuration, performance tuning, and extensions.
+
+## Getting Help
+
+- Check our [troubleshooting guides](deployment/troubleshooting.md)
+- Visit our [community support](community/support.md)
+- Review [common use cases](overview/use-cases.md)
+
+Coming soon - comprehensive documentation for all TrustGraph features!
