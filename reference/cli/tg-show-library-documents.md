@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-library-documents
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-library-documents

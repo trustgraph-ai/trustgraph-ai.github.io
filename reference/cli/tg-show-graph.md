@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-graph
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-graph

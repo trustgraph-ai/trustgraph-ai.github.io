@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-prompts
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-prompts
@@ -133,10 +133,10 @@ analyze_templates() {
   
   # Count variables per template
   echo "Templates with variables:"
-  grep -B1 -A5 "{{" temp_prompts.txt | \
+  grep -B1 -A5 "{% raw %}{{{% endraw %}" temp_prompts.txt | \
     grep "^[a-zA-Z]" | \
     while read template; do
-      var_count=$(grep -A5 "$template" temp_prompts.txt | grep -o "{{[^}]*}}" | wc -l)
+      var_count=$(grep -A5 "$template" temp_prompts.txt | grep -o "{% raw %}{{[^}]*}}{% endraw %}" | wc -l)
       echo "  $template $var_count variables"
     done
   
@@ -220,11 +220,11 @@ validate_templates() {
   # Check for templates without variables
   echo "Templates without variables:"
   grep -B1 -A5 "^[a-zA-Z]" temp_prompts.txt | \
-    grep -v "{{" | \
+    grep -v "{% raw %}{{{% endraw %}" | \
     grep "^[a-zA-Z][^:]*:$" | \
     sed 's/:$//' | \
     while read template; do
-      if ! grep -A5 "$template:" temp_prompts.txt | grep -q "{{"; then
+      if ! grep -A5 "$template:" temp_prompts.txt | grep -q "{% raw %}{{{% endraw %}"; then
         echo "  - $template"
       fi
     done
@@ -269,7 +269,7 @@ generate_usage_examples() {
       echo ""
       
       # Extract variables
-      variables=$(echo "$prompt_text" | grep -o "{{[^}]*}}" | sed 's/[{}]//g' | sort | uniq)
+      variables=$(echo "$prompt_text" | grep -o "{% raw %}{{[^}]*}}{% endraw %}" | sed 's/[{}]//g' | sort | uniq)
       
       if [ -n "$variables" ]; then
         echo "Variables:"

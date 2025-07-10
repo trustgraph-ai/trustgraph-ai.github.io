@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-put-kg-core
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-put-kg-core

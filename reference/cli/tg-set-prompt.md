@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-set-prompt
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-set-prompt

@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-get-kg-core
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-get-kg-core

@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-dump-msgpack
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-dump-msgpack

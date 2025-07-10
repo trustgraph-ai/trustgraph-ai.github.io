@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-flow-classes
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-flow-classes

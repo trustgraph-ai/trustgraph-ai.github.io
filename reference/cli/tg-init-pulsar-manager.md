@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-init-pulsar-manager
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-init-pulsar-manager

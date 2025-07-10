@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-load-sample-documents
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-load-sample-documents

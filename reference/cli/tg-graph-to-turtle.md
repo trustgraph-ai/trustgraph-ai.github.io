@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-graph-to-turtle
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-graph-to-turtle

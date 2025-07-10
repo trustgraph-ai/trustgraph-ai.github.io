@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-invoke-llm
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-invoke-llm

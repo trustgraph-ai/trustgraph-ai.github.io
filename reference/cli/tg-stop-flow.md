@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-stop-flow
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-stop-flow

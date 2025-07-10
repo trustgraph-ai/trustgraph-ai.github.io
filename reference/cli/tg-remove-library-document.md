@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-remove-library-document
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-remove-library-document

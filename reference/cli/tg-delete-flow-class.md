@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-delete-flow-class
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-delete-flow-class

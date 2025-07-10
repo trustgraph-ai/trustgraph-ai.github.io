@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-delete-kg-core
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-delete-kg-core

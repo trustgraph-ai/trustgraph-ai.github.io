@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-load-doc-embeds
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-load-doc-embeds

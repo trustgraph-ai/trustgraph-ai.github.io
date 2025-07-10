@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-library-processing
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-library-processing

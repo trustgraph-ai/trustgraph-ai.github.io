@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-unload-kg-core
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-unload-kg-core

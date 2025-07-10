@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-init-trustgraph
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-init-trustgraph

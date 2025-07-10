@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-processor-state
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-processor-state

@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-put-flow-class
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-put-flow-class

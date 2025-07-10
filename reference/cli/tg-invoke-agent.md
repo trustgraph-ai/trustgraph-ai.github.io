@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-invoke-agent
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-invoke-agent

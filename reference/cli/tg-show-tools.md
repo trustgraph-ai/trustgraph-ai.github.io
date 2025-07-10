@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-tools
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-tools

@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-flow-state
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-flow-state

@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-show-token-rate
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-show-token-rate

@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-save-doc-embeds
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-save-doc-embeds

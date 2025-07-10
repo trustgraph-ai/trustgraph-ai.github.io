@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-invoke-document-rag
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-invoke-document-rag

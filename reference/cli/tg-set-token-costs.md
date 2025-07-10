@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-set-token-costs
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-set-token-costs

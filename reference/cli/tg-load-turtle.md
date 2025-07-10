@@ -1,7 +1,7 @@
 ---
-title: CLI
+title: tg-load-turtle
 layout: default
-parent: Reference
+parent: CLI
 ---
 
 # tg-load-turtle
