@@ -1,0 +1,35 @@
+#------------------------------------------------------------------------------
+# Site-wide settings
+#------------------------------------------------------------------------------
+
+title: TrustGraph Documentation
+description: "Official documentation for the TrustGraph AI project."
+url: "https://trustgraph-ai.github.io" # The base hostname & protocol for your site
+baseurl: "/" # The subpath of your site, e.g. /blog/
+
+#------------------------------------------------------------------------------
+# Theme (Just the Docs)
+#------------------------------------------------------------------------------
+theme: "just-the-docs"
+
+# Enable the dark color scheme to match the custom background
+color_scheme: dark
+
+# Enable search
+search_enabled: true
+
+# Aux links for the header
+aux_links:
+  "TrustGraph on GitHub":
+    - "https://github.com/trustgraph-ai/trustgraph"
+
+#------------------------------------------------------------------------------
+# Jekyll settings
+#------------------------------------------------------------------------------
+
+# Exclude these files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+

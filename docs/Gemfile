@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+# Specify Jekyll and the theme
+gem "jekyll"
+
+gem "just-the-docs"
+
