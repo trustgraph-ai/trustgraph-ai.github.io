@@ -3,7 +3,6 @@ title: Feature Maturity
 layout: default
 nav_order: 4
 parent: Overview
-grand_parent: TrustGraph Documentation
 ---
 
 # Feature Maturity

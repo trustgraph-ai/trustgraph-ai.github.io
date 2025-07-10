@@ -12,11 +12,6 @@ Install TrustGraph on your system with these step-by-step instructions.
 
 ## System Requirements
 
-- Operating System: Linux, macOS, or Windows
-- Memory: 4GB RAM minimum, 8GB recommended
-- Storage: 10GB available space
-- Network: Internet connection for downloads
-
 ## Installation Methods
 
 ### Docker (Recommended)

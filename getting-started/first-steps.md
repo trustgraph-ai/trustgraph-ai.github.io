@@ -1,7 +1,7 @@
 ---
 title: First Steps
 layout: default
-nav_order: 2
+nav_order: 3
 parent: Getting Started
 grand_parent: TrustGraph Documentation
 ---
@@ -12,19 +12,15 @@ Set up your first TrustGraph instance and perform basic operations.
 
 ## Quick Setup
 
-1. **Start TrustGraph**: Launch your TrustGraph instance
-2. **Verify Installation**: Check that everything is working
-3. **Create Your First Graph**: Set up a simple graph
-4. **Add Data**: Insert nodes and edges
-5. **Run Queries**: Perform basic queries
+etc.
 
 ## Basic Operations
 
-### Creating a Graph
-Coming soon - graph creation guide
+etc.
 
-### Adding Nodes and Edges
-Coming soon - data insertion guide
+### Loading data
+
+Coming soon - etc. creation guide
 
 ### Running Queries
 Coming soon - basic query examples

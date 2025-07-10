@@ -1,5 +1,5 @@
 ---
-title: Docker Compose
+title: Docker Compose / Podman Compose
 layout: default
 nav_order: 1
 parent: Deployment
