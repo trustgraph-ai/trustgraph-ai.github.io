@@ -11,6 +11,7 @@ baseurl: "/" # The subpath of your site, e.g. /blog/
 # Theme (Just the Docs)
 #------------------------------------------------------------------------------
 theme: "just-the-docs"
+#remote_theme: pmarsceill/just-the-docs
 
 # Enable the dark color scheme to match the custom background
 color_scheme: dark
