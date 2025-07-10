@@ -1,8 +1,6 @@
 ---
 ---
 
-// Import modern Sass modules
-@use "sass:color";
 
 // Define brand colors BEFORE importing theme
 $trustgraph-background: #131313;
@@ -29,6 +27,9 @@ $code-block-border-color: $border-color;
 
 // Search
 $search-result-preview-color: #bbbbbb;
+
+// Import modern Sass modules
+@use "sass:color";
 
 // Import theme AFTER defining variables
 @import "just-the-docs/just-the-docs";
