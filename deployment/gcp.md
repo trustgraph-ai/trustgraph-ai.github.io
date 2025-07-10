@@ -1,7 +1,7 @@
 ---
 title: Google Cloud Platform
 layout: default
-nav_order: 3
+nav_order: 6
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---

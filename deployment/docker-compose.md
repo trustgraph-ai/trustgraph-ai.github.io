@@ -6,7 +6,7 @@ parent: Deployment
 grand_parent: TrustGraph Documentation
 ---
 
-# Docker Compose Deployment
+# Docker/Podman Compose Deployment
 
 Deploy TrustGraph quickly using Docker Compose for local development and testing environments.
 

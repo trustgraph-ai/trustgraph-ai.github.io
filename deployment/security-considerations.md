@@ -1,7 +1,7 @@
 ---
 title: Security Considerations
 layout: default
-nav_order: 6
+nav_order: 10
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---

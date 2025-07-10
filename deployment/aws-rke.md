@@ -1,7 +1,7 @@
 ---
 title: Amazon Web Services (RKE)
 layout: default
-nav_order: 4
+nav_order: 9
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---

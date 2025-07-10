@@ -1,7 +1,7 @@
 ---
 title: Azure AKS
 layout: default
-nav_order: 3.5
+nav_order: 5
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---

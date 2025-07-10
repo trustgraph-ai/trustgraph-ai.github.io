@@ -1,7 +1,7 @@
 ---
 title: Intel GPU / Tiber Cloud
 layout: default
-nav_order: 2.7
+nav_order: 3
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---

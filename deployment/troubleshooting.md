@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
 layout: default
-nav_order: 8
+nav_order: 12
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---

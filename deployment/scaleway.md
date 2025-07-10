@@ -1,7 +1,7 @@
 ---
 title: Scaleway
 layout: default
-nav_order: 3.2
+nav_order: 4
 parent: Deployment
 grand_parent: TrustGraph Documentation
 ---
