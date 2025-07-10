@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-remove-library-document
 
 Removes a document from the TrustGraph document library.

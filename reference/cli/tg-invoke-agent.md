@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-invoke-agent
 
 Uses the agent service to answer a question via interactive WebSocket connection.

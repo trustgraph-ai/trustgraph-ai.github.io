@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-prompts
 
 Displays all configured prompt templates and system prompts in TrustGraph.

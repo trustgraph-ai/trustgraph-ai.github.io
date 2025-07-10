@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-unload-kg-core
 
 Removes a knowledge core from an active flow without deleting the stored core.

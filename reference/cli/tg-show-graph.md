@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-graph
 
 Displays knowledge graph triples (edges) from the TrustGraph system.

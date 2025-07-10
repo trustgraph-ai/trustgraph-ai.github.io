@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-delete-flow-class
 
 Permanently deletes a flow class definition from TrustGraph.

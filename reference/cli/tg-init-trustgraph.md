@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-init-trustgraph
 
 Initializes Pulsar with TrustGraph tenant, namespaces, and configuration settings.

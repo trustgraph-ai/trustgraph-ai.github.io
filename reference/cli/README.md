@@ -1,3 +1,11 @@
+---
+title: CLI
+layout: default
+nav_order: 1
+has_children: true
+parent: Reference
+---
+
 # TrustGraph CLI Documentation
 
 The TrustGraph Command Line Interface (CLI) provides comprehensive command-line access to all TrustGraph services. These tools wrap the REST and WebSocket APIs to provide convenient, scriptable access to TrustGraph functionality.

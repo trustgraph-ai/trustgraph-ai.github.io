@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-stop-library-processing
 
 Removes a library document processing record from TrustGraph.

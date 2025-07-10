@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-get-kg-core
 
 Exports a knowledge core from TrustGraph to a MessagePack file.

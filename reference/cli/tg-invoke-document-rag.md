@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-invoke-document-rag
 
 Invokes the DocumentRAG service to answer questions using document context and retrieval-augmented generation.

@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-save-doc-embeds
 
 Saves document embeddings from TrustGraph processing streams to MessagePack format files.

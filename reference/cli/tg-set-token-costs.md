@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-set-token-costs
 
 Sets token cost configuration for language models in TrustGraph.

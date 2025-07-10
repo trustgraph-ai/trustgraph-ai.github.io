@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-token-costs
 
 Displays token cost configuration for language models in TrustGraph.

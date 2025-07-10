@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-load-doc-embeds
 
 Loads document embeddings from MessagePack format into TrustGraph processing pipelines.

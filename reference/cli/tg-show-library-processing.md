@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-library-processing
 
 Displays all active library document processing records and their details.

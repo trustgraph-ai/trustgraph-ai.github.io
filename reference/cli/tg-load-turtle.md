@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-load-turtle
 
 Loads RDF triples from Turtle files into the TrustGraph knowledge graph.

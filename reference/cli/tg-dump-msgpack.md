@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-dump-msgpack
 
 Reads and analyzes knowledge core files in MessagePack format for diagnostic purposes.

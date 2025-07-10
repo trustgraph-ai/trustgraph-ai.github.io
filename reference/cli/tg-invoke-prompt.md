@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-invoke-prompt
 
 Invokes the LLM prompt service using predefined prompt templates with variable substitution.

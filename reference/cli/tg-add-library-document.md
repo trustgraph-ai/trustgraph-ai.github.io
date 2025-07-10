@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-add-library-document
 
 Adds documents to the TrustGraph library with comprehensive metadata support.

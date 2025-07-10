@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-set-prompt
 
 Sets prompt templates and system prompts for TrustGraph LLM services.

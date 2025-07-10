@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-get-flow-class
 
 Retrieves and displays a flow class definition in JSON format.

@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-put-kg-core
 
 Stores a knowledge core in the TrustGraph system from MessagePack format.

@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-flows
 
 Shows configured flows with their interfaces and queue information.

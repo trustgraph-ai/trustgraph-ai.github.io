@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-delete-kg-core
 
 Permanently removes a knowledge core from the TrustGraph system.

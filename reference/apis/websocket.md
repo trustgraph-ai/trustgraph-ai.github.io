@@ -1,7 +1,6 @@
 ---
 title: websocket
 layout: default
-has_children: true
 parent: APIs
 ---
 

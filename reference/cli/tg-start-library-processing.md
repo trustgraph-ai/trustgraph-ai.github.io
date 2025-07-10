@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-start-library-processing
 
 Submits a library document for processing through TrustGraph workflows.

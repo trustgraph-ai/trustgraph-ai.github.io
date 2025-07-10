@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-flow-classes
 
 Lists all defined flow classes in TrustGraph with their descriptions and tags.

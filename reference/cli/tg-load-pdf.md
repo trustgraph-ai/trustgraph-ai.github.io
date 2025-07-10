@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-load-pdf
 
 Loads PDF documents into TrustGraph for processing and analysis.

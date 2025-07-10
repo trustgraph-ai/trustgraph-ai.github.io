@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-invoke-llm
 
 Invokes the text completion service with custom system and user prompts.

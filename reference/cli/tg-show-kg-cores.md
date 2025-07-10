@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-kg-cores
 
 Shows available knowledge cores in the TrustGraph system.

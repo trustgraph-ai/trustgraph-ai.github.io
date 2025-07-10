@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-load-text
 
 Loads text documents into TrustGraph processing pipelines with rich metadata support.

@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-init-pulsar-manager
 
 Initializes Pulsar Manager with default superuser credentials for TrustGraph.

@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-show-library-documents
 
 Lists all documents stored in the TrustGraph document library with their metadata.

@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-load-kg-core
 
 Loads a stored knowledge core into a processing flow for active use.

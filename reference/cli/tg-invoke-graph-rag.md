@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-invoke-graph-rag
 
 Uses the Graph RAG service to answer questions using knowledge graph data.

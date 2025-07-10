@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-load-sample-documents
 
 Loads predefined sample documents into TrustGraph library for testing and demonstration purposes.

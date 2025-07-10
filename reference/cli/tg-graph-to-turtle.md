@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-graph-to-turtle
 
 Exports knowledge graph data to Turtle (TTL) format for backup, analysis, or migration.

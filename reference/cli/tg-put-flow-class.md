@@ -1,3 +1,9 @@
+---
+title: CLI
+layout: default
+parent: Reference
+---
+
 # tg-put-flow-class
 
 Uploads or updates a flow class definition in TrustGraph.
